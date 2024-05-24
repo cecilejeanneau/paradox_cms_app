@@ -1,0 +1,6 @@
+{
+  "appTitle": "paradox_cms_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
